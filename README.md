@@ -29,7 +29,7 @@
 
 <p align="center">
   <img 
-    src="https://nirzak-streak-stats.vercel.app/?user=ShivamKGate&theme=monokai&background=1e1e2f&border=7F27FF&stroke=7F27FF&ring=7F27FF&fire=9BE8D8&currStreakLabel=F8F8F8&sideLabels=F8F8F8&dates=F8F8F8&sideNums=9BE8D8&currStreakNum=9BE8D8&hide_border=false" 
+    src="https://nirzak-streak-stats.vercel.app/?user=ShivamKGate&theme=monokai&background=ffffff00&border=7F27FF&stroke=7F27FF&ring=7F27FF&fire=9BE8D8&currStreakLabel=F8F8F8&sideLabels=F8F8F8&dates=F8F8F8&sideNums=9BE8D8&currStreakNum=9BE8D8&hide_border=false" 
     alt="GitHub Streak Stats" />
 </p> 
 
@@ -37,6 +37,6 @@
 <a href="https://github.com/ShivamKGate/github-readme-activity-graph">
   <img 
     alt="Shivam's Activity Graph" 
-    src="https://github-readme-activity-graph.vercel.app/graph/?username=ShivamKGate&bg_color=1e1e2f&color=9BE8D8&line=7F27FF&point=F8F8F8&area=true&hide_border=false" 
+    src="https://github-readme-activity-graph.vercel.app/graph/?username=ShivamKGate&bg_color=ffffff00&color=9BE8D8&line=7F27FF&point=F8F8F8&area=true&hide_border=false" 
   />
 </a>
