@@ -10,14 +10,18 @@
 
 ## 🔥 About Me: 
 
-- 🎓 **Junior majoring in** ***Computer Science***, **researching in** ***Generative AI***
+- 🎓 **Junior majoring in** ***Computer Science***, **researching in** ***Data Science*** **and** ***Machine Learning***
 - ⚙️ **Current:** ***Software Engineering Co-op @ Cincinnati Children's Hospital*** **|** ***GenAI Research Engineer @ University of Cincinnati***
 - 🛠️ **Previous Experience:** ***AI & Data Engineering Co-op @ M. K. Morse*** **|** ***ML Research Co-op @ Taipei Tech***
 - 📚 **Previous UC Research:** ***Data Systems Researcher @ IASRL*** **|** ***Embedded Systems Research Assistant @ MEMS & AIM Laboratory***
 - 📝 **Research Paper:** ***Applications of AI in Manufacturing Industries***
 - 🧠 **Learning:** ***Multi-Agent Systems*** **|** ***CI/CD & DevOps*** **|** ***MLOps*** **|** ***Scalable Architecture*** **|** ***Neuro-Symbolic AI***
-- 🏆 **4x Hackathon Winner:** ***MLH Best Use of ElevenLabs*** **|** ***Best Finance Software*** **|** ***Best Digital Solution for the Clinical Trial Process*** **|** ***Best Use of AI in Education***
-
+- 🏆 **4x Hackathon Winner:**  
+  - ***MLH Best Use of ElevenLabs***  
+  - ***Best Finance Software***  
+  - ***Best Digital Solution for the Clinical Trial Process***  
+  - ***Best Use of AI in Education***
+  
 ---
 ## 🛠️ Tech Stack:
 
