@@ -10,10 +10,9 @@
 
 ## 🔥 About Me: 
 
-- 🎓 **Junior majoring in** ***Computer Science*** **at** ***University of Cincinnati*** , **researching in** ***Data Science*** **and** ***Machine Learning***
+- 🎓 **Junior majoring in** ***Computer Science*** **at** ***University of Cincinnati***, **researching in** ***Data Science*** **and** ***Machine Learning***
 - ⚙️ **Current:** ***GenAI Research Engineer & Teaching Associate @ University of Cincinnati***
 - 🛠️ **Previous Experience:** ***SWE Co-op @ Cincinnati Children's Hospital*** **|** ***AI & Data Engineering Co-op @ M. K. Morse***
-
 - 📚 **Previous UC Research:** ***Data Systems Researcher @ IASRL*** **|** ***Embedded Systems Research Assistant @ MEMS & AIM Laboratory***
 - 📝 **Research Paper:** ***Applications of AI in Manufacturing Industries***
 - 🧠 **Learning:** ***Multi-Agent Systems*** **|** ***CI/CD & DevOps*** **|** ***MLOps*** **|** ***Scalable Architecture*** **|** ***Neuro-Symbolic AI***
