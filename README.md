@@ -10,7 +10,7 @@
 
 ## 🔥 About Me: 
 
-- 🎓 **Junior majoring in** ***Computer Science***, **researching in** ***Data Science*** **and** ***Machine Learning***
+- 🎓 **Junior majoring in** ***Computer Science*** **at** ***University of Cincinnati*** , **researching in** ***Data Science*** **and** ***Machine Learning***
 - ⚙️ **Current:** ***GenAI Research Engineer & Teaching Associate @ University of Cincinnati***
 - 🛠️ **Previous Experience:** ***SWE Co-op @ Cincinnati Children's Hospital*** **|** ***AI & Data Engineering Co-op @ M. K. Morse***
 
