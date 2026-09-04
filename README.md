@@ -12,9 +12,9 @@
 
 - 🎓 **Senior majoring in** ***Computer Science*** **at** ***University of Cincinnati***, **with a** ***Certificate*** **in** ***Software Engineering***
 - ⚙️ **Current:** ***AI & Digital Pathology Associate @ CCHMC (UC)*** **|** ***GenAI Research Architect @ University of Cincinnati***
-- 🛠️ **Previous Experience:** ***SWE Co-op @ Cincinnati Children's Hospital*** **|** ***AI & Data Engineering Co-op @ M. K. Morse*** **|** ***Machine Learning Research Co-op @ Taipei Tech (NTUT)***
+- 🛠️ **Previous Experience:** ***Software Engineering Co-op @ Cincinnati Children's Hospital*** **|** ***AI & Data Engineering Co-op @ M. K. Morse*** **|** ***Machine Learning Research Co-op @ Taipei Tech (NTUT)***
 - 📚 **Previous UC Research:** ***AI & Digital Pathology Researcher @ CCHMC (UPRISE)*** **|** ***Data Systems Researcher @ IASRL*** **|** ***Embedded Systems Research Assistant @ MEMS & AIM Laboratory***
-- 📝 **Research Papers Written:** ***Applications of AI in Manufacturing Industries (unpublished)*** **|** ***in the works...***
+- 📝 **Research Papers Written:** ***Applications of AI in Manufacturing Industries (unpublished)*** **|** ***more currently in the works...***
 - 🧠 **Learning:** ***Multi-Agent Systems*** **|** ***Image Processing*** **|** ***MLOps*** **|** ***Scalable Architecture*** **|** ***Medical AI***
 - 🏆 **4x Hackathon Winner:**  
   - ***MLH Best Use of ElevenLabs***  
