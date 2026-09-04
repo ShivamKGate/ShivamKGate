@@ -10,12 +10,12 @@
 
 ## 🔥 About Me: 
 
-- 🎓 **Junior majoring in** ***Computer Science*** **at** ***University of Cincinnati***, **researching in** ***Digital Pathology*** **and** ***Machine Learning***
-- ⚙️ **Current:** ***GenAI Research Architect @ University of Cincinnati***
-- 🛠️ **Previous Experience:** ***SWE Co-op @ Cincinnati Children's Hospital*** **|** ***AI & Data Engineering Co-op @ M. K. Morse***
-- 📚 **Previous UC Research:** ***AI & Digital Pathology Researcher (UPRISE @ CCHMC)*** **|** ***Data Systems Researcher @ IASRL*** **|** ***Embedded Systems Research Assistant @ MEMS & AIM Laboratory***
-- 📝 **Research Paper:** ***Applications of AI in Manufacturing Industries***
-- 🧠 **Learning:** ***Multi-Agent Systems*** **|** ***CI/CD & DevOps*** **|** ***MLOps*** **|** ***Scalable Architecture*** **|** ***Neuro-Symbolic AI***
+- 🎓 **Senior majoring in** ***Computer Science*** **at** ***University of Cincinnati***, **researching in** ***Digital Pathology*** **and** ***Machine Learning***
+- ⚙️ **Current:** ***AI & Digital Pathology Associate @ CCHMC (UC)*** **|** ***GenAI Research Architect @ University of Cincinnati***
+- 🛠️ **Previous Experience:** ***SWE Co-op @ Cincinnati Children's Hospital*** **|** ***AI & Data Engineering Co-op @ M. K. Morse*** **|** ***Machine Learning Research Co-op @ Taipei Tech (NTUT)***
+- 📚 **Previous UC Research:** ***AI & Digital Pathology Researcher @ CCHMC (UPRISE)*** **|** ***Data Systems Researcher @ IASRL*** **|** ***Embedded Systems Research Assistant @ MEMS & AIM Laboratory***
+- 📝 **Research Papers Written:** ***Applications of AI in Manufacturing Industries (unpublished)*** **|** ***in the works...***
+- 🧠 **Learning:** ***Multi-Agent Systems*** **|** ***Image Processing*** **|** ***MLOps*** **|** ***Scalable Architecture*** **|** ***Medical AI***
 - 🏆 **4x Hackathon Winner:**  
   - ***MLH Best Use of ElevenLabs***  
   - ***Best Finance Software***  
